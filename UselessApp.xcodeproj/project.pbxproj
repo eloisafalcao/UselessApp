@@ -29,6 +29,7 @@
 		759856E42448D9BF00FCEA6E /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 759856E32448D9BF00FCEA6E /* FirstViewController.swift */; };
 		759856E62448DA4500FCEA6E /* FormManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 759856E52448DA4500FCEA6E /* FormManager.swift */; };
 		759856E82448F75300FCEA6E /* MenuDropDown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 759856E72448F75300FCEA6E /* MenuDropDown.swift */; };
+		75F485EC244F5D6A00D9DD1D /* RegExManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F485EB244F5D6A00D9DD1D /* RegExManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		759856E32448D9BF00FCEA6E /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		759856E52448DA4500FCEA6E /* FormManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormManager.swift; sourceTree = "<group>"; };
 		759856E72448F75300FCEA6E /* MenuDropDown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuDropDown.swift; sourceTree = "<group>"; };
+		75F485EB244F5D6A00D9DD1D /* RegExManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegExManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				759856E52448DA4500FCEA6E /* FormManager.swift */,
 				759856E72448F75300FCEA6E /* MenuDropDown.swift */,
 				759856DD2448C1A500FCEA6E /* MenuViewController.swift */,
+				75F485EB244F5D6A00D9DD1D /* RegExManager.swift */,
 				759856DF2448CA5200FCEA6E /* NotARobotViewController.swift */,
 				759856E32448D9BF00FCEA6E /* FirstViewController.swift */,
 				75613A00244A0D010084BBE4 /* SecondViewController.swift */,
@@ -217,6 +220,7 @@
 				75613A03244A12CA0084BBE4 /* UIViewController+Extension.swift in Sources */,
 				75613A01244A0D010084BBE4 /* SecondViewController.swift in Sources */,
 				759856CD2447D57500FCEA6E /* GenderTableView.swift in Sources */,
+				75F485EC244F5D6A00D9DD1D /* RegExManager.swift in Sources */,
 				759856D02447D67400FCEA6E /* GenderTableViewCell.swift in Sources */,
 				759856D32447D7F500FCEA6E /* JsonHelper.swift in Sources */,
 				759856E22448D00600FCEA6E /* ModalView.swift in Sources */,

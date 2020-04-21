@@ -9,6 +9,17 @@
 import UIKit
 
 class VerificationCollectionViewCell: UICollectionViewCell {
-    
     @IBOutlet weak var image: UIImageView!
+    @IBOutlet weak var check: UIImageView!
+    var hadBeenSelected: Bool = false
+
+    func select() {
+        if hadBeenSelected == true {
+            hadBeenSelected = false
+            check.image = nil
+        } else {
+            hadBeenSelected = true
+            check.image = UIImage(named: "check")
+        }
+    }
 }
